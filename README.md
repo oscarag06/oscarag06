@@ -1,8 +1,8 @@
-## Hola, me llamo Óscar
-Estudio en el CIFP César Manrique.
-Estudio Sistemas Microinformáticos y Redes.
-*cursiva*
-> Esto es un comentario
-> 
-![Descripción de la imagen](https://github.com/oscarag06/oscarag06/blob/main/Captura%20de%20pantalla%202025-05-28%20094729.png)
-[Temazo](https://youtu.be/gra-sIV1n4U?feature=shared)
+# Perfil de oscarag06
+Hola, soy Óscar y este es mi perfil de GitHub.
+**Mis características:**
+- Me gustan los videojuegos.
+- Me gusta trabajar de forma independiente.
+- Mi color favorito es el **negro**.
+- [Mi canción favorita actualmente](https://youtu.be/O4QN_4ssuLE?feature=shared)
+- Estudio en el CIFP César Manrique.
