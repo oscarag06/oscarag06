@@ -1,5 +1,6 @@
 # Perfil de oscarag06
 Hola, soy Óscar y este es mi perfil de GitHub.
+
 **Mis características:**
 - Me gustan los videojuegos.
 - Me gusta trabajar de forma independiente.
