@@ -7,3 +7,8 @@ Hola, soy Óscar y este es mi perfil de GitHub.
 - Mi color favorito es el **negro**.
 - [Mi canción favorita actualmente](https://youtu.be/O4QN_4ssuLE?feature=shared)
 - Estudio en el CIFP César Manrique.
+- Tengo un nivel de inglés intermedio-avanzado.
+  | Idiomas | Nivel |
+  |---------|-------|
+  |Inglés   | Avanzado|
+  |Español  | Perfecto|
